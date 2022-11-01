@@ -4,4 +4,4 @@ This project is an interactive data visulization dashboard for literature review
 Literatures included in this dashboard are in the fields machine learning and business process management.
 Because the data included are not completed, a URL link to the dashboard is not yet published. However, some screenshots to the dashboard is available. 
 
-CLick "Sreenshot_ALL.pdf" to see all screenshots. 
+<B>CLick "Sreenshot_ALL.pdf" to see all screenshots. </B>
